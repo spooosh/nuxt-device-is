@@ -1,0 +1,29 @@
+{
+  "name": "nuxt-device-is",
+  "version": "1.0.1",
+  "description": "",
+  "main": "./lib/module.js",
+  "scripts": {
+    "dev": "nuxt test/fixture",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spooosh/nuxt-device-is.git"
+  },
+  "author": "spooosh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spooosh/nuxt-device-is/issues"
+  },
+  "homepage": "https://github.com/spooosh/nuxt-device-is#readme",
+  "devDependencies": {
+    "@babel/core": "latest",
+    "babel-eslint": "latest",
+    "babel-loader": "latest",
+    "eslint": "latest",
+    "eslint-loader": "latest",
+    "eslint-plugin-vue": "latest",
+    "nuxt-edge": "latest"
+  }
+}
