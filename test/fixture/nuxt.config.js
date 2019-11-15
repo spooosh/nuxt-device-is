@@ -30,5 +30,9 @@ module.exports = {
             laptop: 1440,
             desktop: 999999
         }
+    },
+
+    build: {
+        analyze: true
     }
 };
