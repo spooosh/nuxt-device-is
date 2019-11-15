@@ -1,0 +1,11 @@
+# IdeaFiles
+.idea/
+
+# Thumbnails
+# ._*
+
+# NodeModules
+**/node_modules/
+
+# NuxtBuild
+**/.nuxt
