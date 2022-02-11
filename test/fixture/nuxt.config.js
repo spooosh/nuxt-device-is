@@ -1,9 +1,6 @@
-const {resolve} = require('path')
+const {resolve} = require('path');
 
 module.exports = {
-    rootDir: resolve(__dirname, '../..'),
-    buildDir: resolve(__dirname, '.nuxt'),
-    srcDir: __dirname,
     render: {
         resourceHints: false
     },
@@ -31,8 +28,4 @@ module.exports = {
             desktop: 999999
         }
     },
-
-    build: {
-        analyze: true
-    }
 };

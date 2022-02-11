@@ -1,0 +1,23 @@
+{
+    "packageManager": "npm",
+    "fields": [
+        "devDependencies",
+        "scripts",
+        "type"
+    ],
+    "files": [
+        "test",
+        "node_modules",
+        ".babelrc",
+        ".clean-publish",
+        ".editorconfig",
+        ".eslintignore",
+        ".eslintrc",
+        ".gitignore",
+        ".lintstagedrc",
+        "jsconfig.json",
+        "package-lock.json",
+        "simple-git-hooks.js",
+        "Dockerfile"
+    ]
+}

@@ -1,6 +1,6 @@
 {
   "name": "nuxt-device-is",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "./lib/module.js",
   "scripts": {
@@ -21,6 +21,7 @@
     "@babel/core": "latest",
     "babel-eslint": "latest",
     "babel-loader": "latest",
+    "clean-publish": "^4.0.0",
     "eslint": "latest",
     "eslint-loader": "latest",
     "eslint-plugin-vue": "latest",
