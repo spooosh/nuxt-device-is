@@ -1,11 +1,11 @@
 {
   "name": "nuxt-device-is",
-  "version": "1.0.3",
+  "version": "1.1.1",
   "description": "",
   "main": "./lib/module.js",
   "scripts": {
     "dev": "nuxt test/fixture",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "clean-publish"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
     "@babel/core": "latest",
     "babel-eslint": "latest",
     "babel-loader": "latest",
-    "clean-publish": "^4.0.0",
+    "clean-publish": "^3.4.2",
     "eslint": "latest",
     "eslint-loader": "latest",
     "eslint-plugin-vue": "latest",
