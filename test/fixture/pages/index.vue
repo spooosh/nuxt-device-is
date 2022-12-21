@@ -14,6 +14,10 @@
     <div v-else-if="$deviceIs.desktop">
         Is desktop && PC
     </div>
+
+  <div v-else-if="$deviceIs.crawler">
+        crawler
+    </div>
 </template>
 
 <script>

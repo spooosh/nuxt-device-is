@@ -90,6 +90,7 @@ this.$deviceIs.mobile;
 this.$deviceIs.tablet;
 this.$deviceIs.laptop;
 this.$deviceIs.desktop;
+this.$deviceIs.сrawler; // if device is search bot
 this.$deviceIs.pc; // if device is laptop or desktop
 ```
 
